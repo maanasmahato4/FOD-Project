@@ -1,0 +1,4 @@
+aashika_thapa,admin
+kanchana_pasachhe,student
+sange_doma_tamang,student
+nikita_chaudhary,admin
